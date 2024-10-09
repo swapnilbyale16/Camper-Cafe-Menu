@@ -27,6 +27,7 @@ The **Camper Cafe Menu** consists of a header, two sections for coffee and desse
   - The layout adapts based on the screen size, ensuring a visually appealing appearance on different devices.
 
 ### Visual Representation
+![image](https://github.com/user-attachments/assets/3213bee9-d5e4-41f7-9c83-6c280d28158a)
 
 
 ## Potential Enhancements
